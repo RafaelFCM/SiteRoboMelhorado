@@ -11,7 +11,7 @@ body {
     font-family: 'Poppins', sans-serif;
     scroll-behavior: smooth;
     font-size: 2rem;
-    line-height: 2.5rem;
+    line-height: 3rem;
     color: #fff;
 }
 
@@ -29,12 +29,13 @@ body {
     background-color: #1c0522;
 }
 
-p {
+/* p {
     line-height: 3.5rem;
-}
+} */
 
 header ul li {
     list-style: none;
+    line-height: 5rem;
 }
 
 header ul li a {
@@ -101,16 +102,16 @@ section img#robo {
     margin: auto;
 }
 
-.intro p {
+/* .intro p {
     font-size: 2rem;
-}
+} */
 
 .title {
-    font-size: 8rem;
+    font-size: 11vmin;
 }
 
 .card-text {
-    line-height: 2.5rem;
+    /* line-height: 2.5rem; */
     color: black;
 }
 

@@ -10,8 +10,7 @@ body {
     font-family: 'Poppins', sans-serif;
     scroll-behavior: smooth;
     font-size: 2rem;
-    line-height: 2.5rem;
-    width: 99vw;
+    line-height: 3rem;
     color: #fff;
 }
 
@@ -19,12 +18,13 @@ body {
     background: linear-gradient(#1c0522, #2b1055);
 }
 
-p {
+/* p {
     line-height: 3.5rem;
-}
+} */
 
 header ul li {
     list-style: none;
+    line-height: 5rem;
 }
 
 header ul li a {
@@ -40,12 +40,8 @@ header ul li a.active {
     color: #2b1055;
 }
 
-li {
-    line-height: 3.5rem;
-}
-
 #robo {
-    position: absolute;
+    position: fixed;
     top: 20%;
     left: -1%;
     z-index: 1;
@@ -54,7 +50,7 @@ li {
 }
 
 .title {
-    font-size: 5rem;
+    font-size: 10vmin;
 }
 
 .btn-success {
