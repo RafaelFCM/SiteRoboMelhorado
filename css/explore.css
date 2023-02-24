@@ -18,10 +18,6 @@ body {
     background: linear-gradient(#1c0522, #2b1055);
 }
 
-/* p {
-    line-height: 3.5rem;
-} */
-
 header ul li {
     list-style: none;
     line-height: 5rem;
@@ -58,7 +54,7 @@ header ul li a.active {
     color: #fff;
 }
 
-.popup-wrapper {
+/* .popup-wrapper {
     background: rgba(0, 0, 0, .5);
 }
 
@@ -105,4 +101,4 @@ header ul li a.active {
     top: 30%;
     left: 3%;
     color: black;
-}
+} */
